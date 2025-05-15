@@ -28,7 +28,7 @@ By the end of this repo, you’ll understand the **"what"**, **"how"**, and **"w
 | 📂 Keyword | `private`, `public`, `get`, `set` |
 | ✅ Demo File | [`EncapsulationDemo.java`](EncapsulationDemo.java) |
 
-![Encapsulation Diagram](https://www.scaler.com/topics/images/encapsulation-in-java-1.webp)
+<img src="encapsulation_explained.png" width="600"/>
 
 ---
 
@@ -41,7 +41,7 @@ By the end of this repo, you’ll understand the **"what"**, **"how"**, and **"w
 | 📂 Keyword | `extends`, `super()` |
 | ✅ Demo File | [`InheritanceDemo.java`](InheritanceDemo.java) |
 
-![Inheritance Diagram](https://www.scientecheasy.com/wp-content/uploads/2020/07/types-of-inheritance-in-java.png)
+<img src="inheritance_explained.png" width="600"/>
 
 ---
 
@@ -54,7 +54,7 @@ By the end of this repo, you’ll understand the **"what"**, **"how"**, and **"w
 | 📂 Keyword | `@Override`, same method names, different behavior |
 | ✅ Demo File | [`PolymorphismDemo.java`](PolymorphismDemo.java) |
 
-![Polymorphism Diagram](https://tutorial.eyehunts.com/wp-content/uploads/2020/12/Java-Polymorphism-Definition-Type-Example.png)
+<img src="polymorphism_explained.png" width="600"/>
 
 ---
 
@@ -67,7 +67,7 @@ By the end of this repo, you’ll understand the **"what"**, **"how"**, and **"w
 | 📂 Keyword | `abstract`, `implements` |
 | ✅ Demo File | [`AbstractionDemo.java`](AbstractionDemo.java) |
 
-![Abstraction Diagram](https://www.crio.do/blog/content/images/2021/02/Abstraction-in-Java.png)
+<img src="abstraction_explained.png" width="600"/>
 
 ---
 
@@ -76,6 +76,7 @@ By the end of this repo, you’ll understand the **"what"**, **"how"**, and **"w
 ```bash
 javac EncapsulationDemo.java
 java EncapsulationDemo
+
 
 
 ## 🛠️ How to Run
