@@ -8,14 +8,14 @@
 
 ## ✨ About This Repository
 
-This repository is a comprehensive guide to mastering **Object-Oriented Programming (OOP)** concepts using **Java**. Whether you're a beginner, preparing for interviews, or reinforcing your CS fundamentals — this hands-on repo gives you:
+This repository is a comprehensive guide to mastering **Object-Oriented Programming (OOP)** concepts using **Java**. Whether you're a beginner, preparing for interviews, or reinforcing your CS fundamentals — this hands-on repo provides:
 
 - 🧪 **Real Java Code Demos** for each core OOP concept  
-- 🎥 **GIFs & Visuals** that simplify abstract ideas  
-- 🧠 **Tables & Analogies** to help you relate OOP to real life  
+- 🖼️ **Conceptual Diagrams** that simplify abstract ideas  
+- 🧠 **Tables & Analogies** to help relate OOP to real life  
 - 💡 **Cleanly separated files** for Encapsulation, Inheritance, Polymorphism, and Abstraction
 
-By the end of this repo, you’ll not only understand the **"what"** and **"how"** of OOP, but also the **"why"** behind it.
+By the end of this repo, you’ll understand the **"what"**, **"how"**, and **"why"** of OOP.
 
 ---
 
@@ -28,7 +28,7 @@ By the end of this repo, you’ll not only understand the **"what"** and **"how"
 | 📂 Keyword | `private`, `public`, `get`, `set` |
 | ✅ Demo File | [`EncapsulationDemo.java`](EncapsulationDemo.java) |
 
-<img src="https://media.giphy.com/media/6WUkGqX9LeNHa1UpTu/giphy.gif" width="450"/>
+![Encapsulation Diagram](https://www.scaler.com/topics/images/encapsulation-in-java-1.webp)
 
 ---
 
@@ -41,7 +41,7 @@ By the end of this repo, you’ll not only understand the **"what"** and **"how"
 | 📂 Keyword | `extends`, `super()` |
 | ✅ Demo File | [`InheritanceDemo.java`](InheritanceDemo.java) |
 
-<img src="https://media.giphy.com/media/l0K4kWJirrpA1RZpK/giphy.gif" width="450"/>
+![Inheritance Diagram](https://www.scientecheasy.com/wp-content/uploads/2020/07/types-of-inheritance-in-java.png)
 
 ---
 
@@ -54,7 +54,7 @@ By the end of this repo, you’ll not only understand the **"what"** and **"how"
 | 📂 Keyword | `@Override`, same method names, different behavior |
 | ✅ Demo File | [`PolymorphismDemo.java`](PolymorphismDemo.java) |
 
-<img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" width="450"/>
+![Polymorphism Diagram](https://tutorial.eyehunts.com/wp-content/uploads/2020/12/Java-Polymorphism-Definition-Type-Example.png)
 
 ---
 
@@ -67,9 +67,16 @@ By the end of this repo, you’ll not only understand the **"what"** and **"how"
 | 📂 Keyword | `abstract`, `implements` |
 | ✅ Demo File | [`AbstractionDemo.java`](AbstractionDemo.java) |
 
-<img src="https://media.giphy.com/media/3ohc0Ulr8JvzQm2OCg/giphy.gif" width="450"/>
+![Abstraction Diagram](https://www.crio.do/blog/content/images/2021/02/Abstraction-in-Java.png)
 
 ---
+
+## 🛠️ How to Run
+
+```bash
+javac EncapsulationDemo.java
+java EncapsulationDemo
+
 
 ## 🛠️ How to Run
 
